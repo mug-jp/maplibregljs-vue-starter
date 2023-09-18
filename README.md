@@ -75,7 +75,7 @@ npm run lint
 ## License
 MIT
 
-Copyright (c) 2023 Yasunori Kirimoto
+Copyright (c) 2023 MapLibre User Group Japan
 
 <br>
 
@@ -165,6 +165,6 @@ npm run lint
 ## ライセンス
 MIT
 
-Copyright (c) 2023 Yasunori Kirimoto
+Copyright (c) 2023 MapLibre User Group Japan
 
 <br>

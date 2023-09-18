@@ -15,7 +15,7 @@
     "format": "prettier --write src/"
   },
   "keywords": [],
-  "author": "Yasunori Kirimoto",
+  "author": "MapLibre User Group Japan",
   "license": "ISC",
   "dependencies": {
     "maplibre-gl": "^3.3.1",
