@@ -10,6 +10,12 @@ Start MapLibre GL JS and Vue.js easily.
 
 <br>
 
+## blog
+
+[Building a Map Application with MapLibre GL JS and Vue.js (script setup)](https://dev.to/mug-jp/building-a-map-application-with-maplibre-gl-js-and-vuejs-script-setup-4mim)
+
+<br>
+
 ## Usage
 
 ![README03](public/README03.png)
@@ -63,8 +69,6 @@ Lint
 npm run lint
 ```
 
----
-
 <br>
 <br>
 
@@ -96,6 +100,12 @@ MapLibre GL JSとVue.jsを手軽に始める
 - [Vue.js v3.3.4](https://vuejs.org)  
 - node v20.6.1
 - npm v9.8.1
+
+<br>
+
+## blog
+
+[MapLibre GL JSとVue.js(script setup)を組み合わせた開発環境を構築してみた](https://www.memo.dayjournal.dev/memo/try-101)
 
 <br>
 
